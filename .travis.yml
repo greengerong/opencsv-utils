@@ -1,5 +1,5 @@
 language: java
-script: "mvn clean install"
+script: "mvn clean install -U"
 jdk:
   - openjdk6
   - openjdk7
