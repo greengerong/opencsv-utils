@@ -10,6 +10,16 @@ public class Person {
     @Ignore
     private int age;
 
+    public Person(int id, String name, int age) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+    }
+
+    public Person() {
+
+    }
+
     public int getId() {
         return id;
     }
