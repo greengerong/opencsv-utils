@@ -75,7 +75,6 @@ public class CsvMapper<T> implements ICsvMapper<T> {
         csvWriter.writeNext(columnMapping.keySet().toArray(new String[0]));
         csvWriter.writeAll(lines);
         csvWriter.flush();
-        csvWriter.close();
     }
 
     private String[] getLine(T item) throws Exception {
