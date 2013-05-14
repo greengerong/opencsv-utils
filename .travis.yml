@@ -3,3 +3,5 @@ script: "mvn clean install -U"
 jdk:
   - oraclejdk6
   - oraclejdk7
+  - openjdk6
+  - openjdk7
