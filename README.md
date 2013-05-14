@@ -17,6 +17,7 @@ public class Person {
  For person object mapping will be :
 
  id  => id
+
  name => person name
 
  It will ignore age field.
