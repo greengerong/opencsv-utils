@@ -1,4 +1,4 @@
-build status: !https://travis-ci.org/greengerong/opencsv-utils.png?branch=master!:https://travis-ci.org/greengerong/opencsv-utils
+build status: [![Build Status](https://travis-ci.org/greengerong/opencsv-utils.png?branch=master)](https://travis-ci.org/greengerong/opencsv-utils)
 
 ===============================
 public class Person {
@@ -16,7 +16,7 @@ public class Person {
 
  For person object mapping will be :
 
- id  => id|
- name => person name|
+ id  => id
+ name => person name
 
  It will ignore age field.
