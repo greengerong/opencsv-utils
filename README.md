@@ -21,3 +21,12 @@ public class Person {
  name => person name
 
  It will ignore age field.
+
+ ===============================
+Also util for map:
+
+ CsvMapperUtil :
+
+ 1:public <T> List<T> fromCsv(Class<T> type, Reader reader)
+
+ 2:public <T> void toCsv(Class<T> type, List<T> list, Writer writer) throws Exception
