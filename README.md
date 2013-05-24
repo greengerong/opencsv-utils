@@ -1,6 +1,7 @@
 build status: [![Build Status](https://travis-ci.org/greengerong/opencsv-utils.png?branch=master)](https://travis-ci.org/greengerong/opencsv-utils)
 
 depends:
+
      <dependency>
       <groupId>com.github.greengerong</groupId>
       <artifactId>opencsv.utils</artifactId>
