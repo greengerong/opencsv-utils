@@ -5,7 +5,7 @@ depends:
      <dependency>
       <groupId>com.github.greengerong</groupId>
       <artifactId>opencsv.utils</artifactId>
-      <version>1.1</version>
+      <version>1.2</version>
     </dependency>
 ===============================
 
